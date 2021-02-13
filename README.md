@@ -116,3 +116,5 @@ The output will be a record populated with information from VIAF (cf. `sample-ou
 ```
 
 Note that the original content of the record is preserved as the final lines of the new record. This ensures that any local forms of the name are not overwritten and allows for comments or other information to be included.
+
+It does not (yet) log progress so should probably be used on small rather than large batches of names.
