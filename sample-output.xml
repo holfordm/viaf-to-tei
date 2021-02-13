@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <person xml:id="person_25006775">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodorus</name>
+                  <name type="marc-c">Palidensis</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodoricus</name>
+                  <name type="marc-c">Monachus Palidensis</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodoricus</name>
+                  <name type="marc-c">Palidensis</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodorus</name>
+                  <name type="marc-c">Monachus</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodorus</name>
+                  <name type="marc-c">Monk</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Theodorus</name>
+                  <name type="marc-c">Pöhlde</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Théodore</name>
+                  <name type="marc-c">Moine à Poelde</name>
+                  <name type="marc-d">ca. 12. Jh.</name>
+               </persName>
+               <birth source="VIAF" when="1100">1100</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/103115242">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/25006775">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Theodorus Palidensis, 12th century</persName>
+               <!-- also 170479953 -->
+            </person>
+            
+            
+            <person xml:id="person_409437">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Tempelfeld de Brega</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Brega, Nicolaus &#x98;de&#x9c;</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolas</name>
+                  <name type="marc-c">Tempelfeld de Brieg</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolas</name>
+                  <name type="marc-c">Tempelfeld</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Tempelfeld Bregensis</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Tempelfeld von Brieg</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Tempelfeld</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Tympelfelt</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">de Brega</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Tempelfeld Bregensis, Nicolaus</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Tempelfeld de Brega, Nicolaus</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Tempelfeld, Nicolas</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Tempelfeld, Nicolaus</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Tympelfelt, Nicolaus</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">ʿMikołaja</name>
+                  <name type="marc-c">z Brzegu</name>
+                  <name type="marc-d">-1471</name>
+               </persName>
+               <death source="VIAF" when="1471">1471</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/102836450">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q94859990">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/409437">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Nicolaus Tempelfeld de Brega -1471</persName>
+            </person>
+            
+            <person xml:id="person_78500588">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Neligan, William Chadwick</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000045063356">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2004112095">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/78500588">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Neligan, William Chadwick</persName>
+            </person>
+            
+            <person xml:id="person_22967688">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II,</name>
+                  <name type="marc-c">Archbishop and Elector of Mainz,</name>
+                  <name type="marc-d">approximately 1422-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-c">Erzbischof von Nassau-Wiesbaden-Idstein</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">Archbishop and Elector of Mainz</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">Erzbischof und Kurfürst von Mainz</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">Erzbischof von Mainz</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">Mainz, Erzbischof</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">von Nassau</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolf</name>
+                  <name type="marc-c">von Nassau-Wiesbaden-Idstein</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Adolphe &lt;Mayence, Archevêque&gt;</name>
+                  <name type="marc-c">Archevêque de Mayence</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolphe</name>
+                  <name type="marc-b">II.</name>
+                  <name type="marc-c">de Nassau</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolphe</name>
+                  <name type="marc-c">Mayence, Archevêque</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolphus</name>
+                  <name type="marc-c">Episcopus Moguntinus</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolphus</name>
+                  <name type="marc-c">von Nassau</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolph</name>
+                  <name type="marc-c">Mainz, Erzbischof</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolph</name>
+                  <name type="marc-c">von Mainz</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adolph</name>
+                  <name type="marc-c">von Nassau</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Nassau, Adolf &#x98;von&#x9c;</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Nassau-Wiesbaden-Idstein, Adolf &#x98;von&#x9c;</name>
+                  <name type="marc-d">1423-1475</name>
+               </persName>
+               <birth source="VIAF" when="1423">1423</birth>
+               <death source="VIAF" when="1475">1475-09-06</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/120251973">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q364838">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr93005520">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/22967688">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Adolf II, Archbishop and Elector of Mainz, approximately 1422-1475</persName>
+            </person>
+            
+            <person xml:id="person_5320354">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippus</name>
+                  <name type="marc-c">de Florentia</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Filippo</name>
+                  <name type="marc-c">Fiorentino</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Florentia, Philippus &#x98;de&#x9c;</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippe</name>
+                  <name type="marc-c">de Florence, Franciscain</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippe</name>
+                  <name type="marc-c">de Florence</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippus</name>
+                  <name type="marc-c">Florentinus</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippus</name>
+                  <name type="marc-c">Ultrarnensis</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippus</name>
+                  <name type="marc-c">Volaterranus</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Philippus</name>
+                  <name type="marc-c">Vulterranus</name>
+                  <name type="marc-d">ca. um 1313</name>
+               </persName>
+               <birth source="VIAF" when="1313">1313</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/102515719">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/5320354">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Philippus de Florentia, ca. 1313</persName>
+            </person>
+            
+            <person xml:id="person_10203812">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Cornubiensis</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Blaunpayn, Michel</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Anglicus</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Blangvangn</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Blaunpainus</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Blaunpayn</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">of Cornwall</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">the Cornishman</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">the Englishman</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">von Cornwall</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michel</name>
+                  <name type="marc-c">de Cornouailles</name>
+                  <name type="marc-d">ca. um 1250</name>
+               </persName>
+               <birth source="VIAF" when="1250">1250</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/100968988">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/10203812">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Poter, Michael le, of Cornwall, fl. 1243-1255</persName>
+               <floruit notBefore="1243" notAfter="1255"/>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/18648">
+                           <title>Oxford DNB</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_304918233">
+               <persName type="variant" subtype="forenameFirst" source="WKP">
+                  <name type="marc-a">Angelo Fasolo</name>
+                  <name type="marc-c">évèque catholique italien</name>
+                  <name type="marc-9">fr</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1426">1426</birth>
+               <death source="VIAF" when="1491">1491</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q3616987">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/304918233">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Fasolo, Angelo, 1426-1491</persName>
+            </person>
+            
+            <person xml:id="person_19483789">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Bertram,</name>
+                  <name type="marc-c">von Ahlen,</name>
+                  <name type="marc-d">active 1307-1315</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Bertram,</name>
+                  <name type="marc-c">von Ahlen,</name>
+                  <name type="marc-d">fl. 1307-1315</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Bertramus,</name>
+                  <name type="marc-c">de Ahlen,</name>
+                  <name type="marc-d">active 1307-1315</name>
+               </persName>
+               <birth source="VIAF" when="1307">1307</birth>
+               <death source="VIAF" when="1315">1315</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2008043551">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/19483789">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Bertram, von Ahlen, active 1307-1315</persName>
+            </person>
+            
+            <person xml:id="person_197853031">
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Boxhorn, Hendrik</name>
+                  <name type="marc-d">1550-ca. 1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Bochorinc, Henri</name>
+                  <name type="marc-d">1550-ca. 1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Boxhorn, Heinrich</name>
+                  <name type="marc-d">1550-ca. 1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Boxhorn, Henricus</name>
+                  <name type="marc-d">1550-ca. 1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Boxhornius, Henricus</name>
+                  <name type="marc-d">1550-ca. 1631</name>
+               </persName>
+               <birth source="VIAF" when="1550">1550</birth>
+               <death source="VIAF" when="1632">1632</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/104304286">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="FRBNF177563261">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/197853031">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="BNF">Boxhorn, Hendrik 1545?-1631?</persName>
+            </person>
+            
+            <person xml:id="person_28213935">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Holland, Thomas,</name>
+                  <name type="marc-d">1539-1612</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Hollandus, Thomas</name>
+                  <name type="marc-d">1539-1612</name>
+               </persName>
+               <birth source="VIAF" when="1539">1539</birth>
+               <death source="VIAF" when="1612">1612-03-16</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/131824945">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000048635874">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr93005287">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q7790754">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/28213935">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Holland, Thomas, 1539-1612</persName>   
+            </person>
+            
+            <person xml:id="person_24954637">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Elsynge, Henry,</name>
+                  <name type="marc-d">1577-1635 or 1636</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Elsyng, Henry,</name>
+                  <name type="marc-d">1577-1635 or 1636</name>
+               </persName>
+               <birth source="VIAF" when="1577">1577</birth>
+               <death source="VIAF" when="1636">1636</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000079721425">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no92029509">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q18730405">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/24954637">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Elsynge, Henry, 1577-1635</persName>
+            </person>
+            
+            <person xml:id="person_828869">
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Latewar, Richard</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/11973916X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/828869">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Latewar, Richard</persName>
+            </person>
+            
+            <person xml:id="person_32909717">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Pearce, Zachary,</name>
+                  <name type="marc-d">1690-1774</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Pearce, Zacharias</name>
+                  <name type="marc-d">1690-1774</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Pearcius, Zacharias</name>
+                  <name type="marc-d">1690-1774</name>
+               </persName>
+               <birth source="VIAF" when="1690">1690-09-08</birth>
+               <death source="VIAF" when="1774">1774-06-29</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/123652448">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000081124523">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n85089701">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q8063985">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="FRBNF107024243">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/32909717">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Pearce, Zachary, 1690-1774</persName>
+            </person>
+            
+            <person xml:id="person_17133283">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Forrest, William,</name>
+                  <name type="marc-c">Sir,</name>
+                  <name type="marc-d">active 1530-1581</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Forrest, William,</name>
+                  <name type="marc-c">Sir,</name>
+                  <name type="marc-d">fl. 1530-1581</name>
+               </persName>
+               <birth source="VIAF" when="1530">1530</birth>
+               <death source="VIAF" when="1576">1576</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000052452640">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q14945424">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr98000659">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/17133283">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Forrest, William, 1530-1581</persName>
+            </person>
+            
+            <person xml:id="person_49548280">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Buckeridge, John,</name>
+                  <name type="marc-d">1562?-1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Buckeridge, Iohn,</name>
+                  <name type="marc-d">1562?-1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Buckridge, John,</name>
+                  <name type="marc-d">1562?-1631</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Rochester,</name>
+                  <name type="marc-c">Bishop of</name>
+                  <name type="marc-q">(John Buckeridge),</name>
+                  <name type="marc-d">1562?-1631</name>
+               </persName>
+               <birth source="VIAF" when="1562">1562</birth>
+               <death source="VIAF" when="1631">1631-05-23</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q6223750">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb15613159r">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000062993221">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84121174">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/49548280">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Buckeridge, John, 1562-1631</persName>
+            </person>
+            
+            <person xml:id="person_162373552">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Paratus</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1300">1300</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/10251884X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000373703332">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n86852138">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/162373552">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">'Paratus', 14th century</persName>
+            </person>
+            
+            <person xml:id="person_25696227">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Black, William Henry,</name>
+                  <name type="marc-d">1808-1872</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Black, Guilelmus Henricus</name>
+                  <name type="marc-d">1808-1872</name>
+               </persName>
+               <birth source="VIAF" when="1808">1808-05-07</birth>
+               <death source="VIAF" when="1872">1872-04-12</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q18531030">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n87149891">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000081048727">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/129906581">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/25696227">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Black, William Henry, 1808-1872</persName>
+            </person>
+            
+            <person xml:id="person_32753361">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Cohn, Albert,</name>
+                  <name type="marc-d">1827-1905</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1827">1827-02-02</birth>
+               <death source="VIAF" when="1905">1905-08-24</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb10673920g">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/116629029">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n88057482">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000116168535">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q4230334">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/32753361">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Cohn, Albert, 1827-1905</persName>
+            </person>
+            
+            <person xml:id="person_27313450">
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-7">ba0yba0a</name>
+                  <name type="marc-8">freara</name>
+                  <name type="marc-9">0</name>
+                  <name type="marc-a">Ibn al-Ǧazzār</name>
+                  <name type="marc-b">Aḥmad ibn Ibrāhīm</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Abou Jaafar Ahmed Ibn Ibrahim Ali Ibn El Jazzar</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ebn Djezar</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ibn Al-Gazzar</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ibn El Jazzar</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ibn al-Ǧazzār</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ibn al-Jazz'r</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">Ibn al-Jazzar</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <persName type="variant" subtype="unparsed" source="BNF">
+                  <name type="marc-a">ابن الجزّار</name>
+                  <name type="marc-b">أحمد بن إبراهيم</name>
+                  <name type="marc-f">0878-0980</name>
+               </persName>
+               <birth source="VIAF" when="0878">878</birth>
+               <death source="VIAF" when="0980">980</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb14591555b">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000449363048">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q1655888">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000140841224">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/27313450">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="BNF">Ibn al-Ǧazzār, Aḥmad ibn Ibrāhīm, 0878-0980</persName>
+            </person>
+            
+            <person xml:id="person_64360152">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Verburg, Isaäc,</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburg, Isaacus</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburg, Isaak</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburg, Izaak</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburg, Izak</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburgh, Isaac</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburgius, Isaacus</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Verburgius, Isaac</name>
+                  <name type="marc-d">1680-1745</name>
+               </persName>
+               <birth source="VIAF" when="1680">1680</birth>
+               <death source="VIAF" when="1745">1745</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/172432731">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000066681786">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr96026134">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q97622415">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/64360152">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Verburg, Isaäc, 1680-1745</persName>
+            </person>
+            
+            <person xml:id="person_24945908">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Orville, Jacques Philippe d',</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">D'Orville, Jacob Philipp</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">D'Orville, Jacobus Philippus</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">D'Orville, Jacques Philippe</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">D'Orville, Jakob Philipp</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">D'Orville, James Philip</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, J. P. &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, Jacob Philipp &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, Jacobus Philippus &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, Jacobus-Philippe &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, Jacques-Philippe &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, Jakob Philipp &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Orville, James Philip &#x98;d'&#x9c;</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">d'Orville, J. P.</name>
+                  <name type="marc-d">1696-1751</name>
+               </persName>
+               <birth source="VIAF" when="1696">1696</birth>
+               <death source="VIAF" when="1751">1751-09-04</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/100390455">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/000000008342364X">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/nr93029282">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q15455143">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/24945908">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName source="LC" type="display">Orville, Jacques-Philippe d', 1696-1751</persName>   
+            </person>
+            
+            <person xml:id="person_78340758">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">White, Thomas,</name>
+                  <name type="marc-c">Sir,</name>
+                  <name type="marc-d">1492-1567</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1492">1492</birth>
+               <death source="VIAF" when="1567">1567-02-12</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q2428137">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no91010626">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/78340758">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName source="LC" type="display">White, Thomas, Sir, 1492-1567</persName>
+            </person>
+            
+            <person xml:id="person_292789691">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Jonson, Ben,</name>
+                  <name type="marc-d">1573?-1637</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">B. J.</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Ben-Johnson</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Ben-Jonhson</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Ben-Jonson</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Dzhonson, Ben</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Iohnson, Benjamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Iohnson, Ben</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ionson, Benjamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ionson, Ben</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">J., B.</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Johnson, Beniamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Johnson, Benjamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Johnson, Ben</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Jonson, ...</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Jonson, Beniamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Jonson, Benjamin</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Jonsonius, Ben.</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">ǅonson, Ben</name>
+                  <name type="marc-d">1572-1637</name>
+               </persName>
+               <birth source="VIAF" when="1572">1572-06-21</birth>
+               <death source="VIAF" when="1637">1637-08-06</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000121340010">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="FRBNF119089882">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n80044918">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q193857">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/118558323">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/292789691">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Jonson, Ben, 1573?-1637</persName>
+            </person>
+            
+            <person xml:id="person_296283946">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Rolandus</name>
+                  <name type="marc-c">Ulyssiponensis</name>
+                  <name type="marc-d">15. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Rolando</name>
+                  <name type="marc-c">Escritor</name>
+                  <name type="marc-d">15. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Rolando</name>
+                  <name type="marc-c">de Lisboa</name>
+                  <name type="marc-d">15. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Rolandus</name>
+                  <name type="marc-c">Scriptoris</name>
+                  <name type="marc-d">15. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Rolandus</name>
+                  <name type="marc-c">Ulixbonensis</name>
+                  <name type="marc-d">15. Jh.</name>
+               </persName>
+               <birth source="VIAF" when="1400">1400</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/1031545794">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/296283946">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Roland of Lisbon, 15th century</persName>
+            </person>
+            
+            <person xml:id="person_15175769">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sephridus</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sephridus</name>
+                  <name type="marc-c">Babariae</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sephridus</name>
+                  <name type="marc-c">Magister Oxoniae</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sephridus</name>
+                  <name type="marc-c">de Domo Teutonica</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sifirdus</name>
+                  <name type="marc-c">de Domo Teutonica</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sifridus</name>
+                  <name type="marc-c">Anglicus</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sifridus</name>
+                  <name type="marc-c">Magister Oxoniae</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sifridus</name>
+                  <name type="marc-c">Niger</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sifridus</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sigfridus</name>
+                  <name type="marc-c">Bavarus</name>
+                  <name type="marc-d">ca. um 1343</name>
+               </persName>
+               <birth source="VIAF" when="1343">1343</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/103086951">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/15175769">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Sifridus OP, fl. 1343</persName>
+            </person>
+            
+            <person xml:id="person_59109233">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfredus</name>
+                  <name type="marc-c">Sereshalensis</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred de Sareshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred de Sereshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred von Sereshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfredus</name>
+                  <name type="marc-c">Anglicus</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfredus</name>
+                  <name type="marc-c">Anglus</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfredus</name>
+                  <name type="marc-c">de Sareshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfredus</name>
+                  <name type="marc-c">de Sarewel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred</name>
+                  <name type="marc-c">Anglicus</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred</name>
+                  <name type="marc-c">of Sareshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred</name>
+                  <name type="marc-c">von Sarashel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred</name>
+                  <name type="marc-c">von Sareshel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Alfred</name>
+                  <name type="marc-c">von Serechel</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Alvredus, A. Anglicus</name>
+                  <name type="marc-d">1175-1245</name>
+               </persName>
+               <birth source="VIAF" when="1175">1175</birth>
+               <death source="VIAF" when="1245">1245</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/118648152">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q28761">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/000000008137782X">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/59109233">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Alfredus Sereshalensis 1175-1245</persName>
+            </person>
+            
+            <person xml:id="person_19649480">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Nicolaus,</name>
+                  <name type="marc-c">of Damascus</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Damasceni, Nicolai</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Damasceno, Nicola</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Damascenus, Nicolaus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaos</name>
+                  <name type="marc-c">Historiker</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolao</name>
+                  <name type="marc-c">di Damasco</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolas</name>
+                  <name type="marc-c">De Damase</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolas</name>
+                  <name type="marc-c">de Damase</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolas</name>
+                  <name type="marc-c">de Damas</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus Peripateticus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">Historicus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicolaus</name>
+                  <name type="marc-c">of Damascus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicola</name>
+                  <name type="marc-c">Di Damasco</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicola</name>
+                  <name type="marc-c">Storico</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nicola</name>
+                  <name type="marc-c">di Damasco</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nikolaos</name>
+                  <name type="marc-c">Historiker</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nikolaos</name>
+                  <name type="marc-c">ho Damaskēnos</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nikolaos</name>
+                  <name type="marc-c">von Damaskos</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nikolaos</name>
+                  <name type="marc-c">von Damaskus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nikolaus</name>
+                  <name type="marc-c">Damascenus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Nīqūlāus</name>
+                  <name type="marc-d">v64-v4</name>
+               </persName>
+               <birth source="VIAF" when="-0064">-64</birth>
+               <death source="VIAF" when="-0004">-4</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/119163594">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/000000008938555X">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n85344961">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000455041854">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q313924">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb122500611">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/19649480">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Nicolaus, of Damascus</persName>
+            </person>
+            
+            <person xml:id="person_44655240">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Sulpicius Apollinaris, Gaius</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Apollinaris, Gaius Sulpicius</name>
+                  <name type="marc-d">ca. 2. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sulpicius</name>
+                  <name type="marc-c">Apollinaris</name>
+                  <name type="marc-d">ca. 2. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sulpicius</name>
+                  <name type="marc-c">Grammaticus</name>
+                  <name type="marc-d">ca. 2. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Sulpicius</name>
+                  <name type="marc-c">Lehrer des Gellius</name>
+                  <name type="marc-d">ca. 2. Jh.</name>
+               </persName>
+               <birth source="VIAF" when="0100">100</birth>
+               <death source="VIAF" when="0150">150</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/100769020">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb10058188n">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000459500165">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q2658339">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n2016046045">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/44655240">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Sulpicius Apollinaris, Gaius</persName>
+            </person>
+            
+            <person xml:id="person_59434961">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Tillesley, Richard,</name>
+                  <name type="marc-d">1582-1621</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1582">1582</birth>
+               <death source="VIAF" when="1621">1621</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000081389898">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q7329485">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/1056143460">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n85348752">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/59434961">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="VIAF">Tillesley, Richard, 1582-1621</persName>
+            </person>
+            
+            <person xml:id="person_96235220">
+               <persName type="variant" subtype="surenameFirst" source="JPG">
+                  <name type="marc-a">Woltmann, Tider</name>
+                  <name type="marc-g">German bookbinder, active 1450-1470</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1410">1410</birth>
+               <death source="VIAF" when="1510">1510</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://viaf.org/viaf/96235220">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="JPG">Woltmann, Tider, German bookbinder, active 1450-1470</persName>
+            </person>
+            
+            <person xml:id="person_96243197">
+               <persName type="variant" subtype="forenameFirst" source="WKP">
+                  <name type="marc-a">Baldassare degli Embriachi</name>
+                  <name type="marc-9">fr</name>
+                  <name type="marc-9">en</name>
+                  <name type="marc-9">pt</name>
+                  <name type="marc-9">ca</name>
+                  <name type="marc-9">it</name>
+                  <name type="marc-9">da</name>
+                  <name type="marc-9">sv</name>
+                  <name type="marc-9">sq</name>
+               </persName>
+               <!--no variants found in preferred sources-->
+               <birth source="VIAF" when="1340">1340</birth>
+               <death source="VIAF" when="1440">1440</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q2880657">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/96243197">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Embriachi, Baldassare, active ca. 1390-1409</persName>
+               <!-- several other refs in VIAF all of which relate to the same person who was active both in Florence and Venice. -->
+            </person>
+            
+            <person xml:id="person_20479535">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Hugh,</name>
+                  <name type="marc-c">of Lincoln, Saint,</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hughes</name>
+                  <name type="marc-c">of Lincoln</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugh</name>
+                  <name type="marc-c">Carthusian</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugh</name>
+                  <name type="marc-c">de Avalon</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugh</name>
+                  <name type="marc-c">of Lincoln</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">Episcopus</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">Heiliger</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">Lincoln, Bischof</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">Sanctus</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">de Aballone</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">de Avalon</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">de Lincoln</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">of Avalon</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">von Avalon</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugo</name>
+                  <name type="marc-c">von Lincoln</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugues</name>
+                  <name type="marc-c">d'Avallon</name>
+                  <name type="marc-d">1140-1200</name>
+                  <name type="marc-4">nafr</name>
+                  <name type="marc-4">https://d-nb.info/standards/elementset/gnd#EarlierNameOfThePerson</name>
+                  <name type="marc-e">Frueherer Name</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugues</name>
+                  <name type="marc-c">de Lincoln</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hugues</name>
+                  <name type="marc-c">le Chartreux</name>
+                  <name type="marc-d">1140-1200</name>
+               </persName>
+               <birth source="VIAF" when="1140">1140</birth>
+               <death source="VIAF" when="1200">1200-11-16</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000066342872">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/118939890">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q924107">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n84216843">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/20479535">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Hugh, of Lincoln, Saint, 1140-1200</persName>
+            </person>
+            
+            <person xml:id="person_299045414">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Hedwig,</name>
+                  <name type="marc-c">Herzogin von Schwaben,</name>
+                  <name type="marc-d">approximately 938-994</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hadewig</name>
+                  <name type="marc-c">Schwaben, Herzogin</name>
+                  <name type="marc-d">940-994</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hadwig</name>
+                  <name type="marc-c">Schwaben, Herzogin</name>
+                  <name type="marc-d">940-994</name>
+               </persName>
+               <birth source="VIAF" when="0940">940</birth>
+               <death source="VIAF" when="0994">994-08-28</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/121730921">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q78084">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2002097229">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000403110993">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/299045414">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="LC">Hedwig, Herzogin von Schwaben, approximately 938-994 </persName>
+            </person>
+            
+            <person xml:id="person_86128486">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Mathilde</name>
+                  <name type="marc-c">Lothringen, Pfalzgräfin</name>
+                  <name type="marc-d">978-1025</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Mathilde (Lothringen)</name>
+                  <name type="marc-d">978-1025</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Mathilde</name>
+                  <name type="marc-c">von Lothringen</name>
+                  <name type="marc-d">978-1025</name>
+               </persName>
+               <birth source="VIAF" when="0978">978</birth>
+               <death source="VIAF" when="1025">1025-11-04</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/137969023">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q469587">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/86128486">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Matilda of Germany, -1025</persName>
+            </person>
+            
+            <person xml:id="person_49061771">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Paddy, William,</name>
+                  <name type="marc-d">1554-1634</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Paddy,</name>
+                  <name type="marc-c">Dr.</name>
+                  <name type="marc-q">(William),</name>
+                  <name type="marc-d">1554-1634</name>
+               </persName>
+               <birth source="VIAF" when="1554">1554</birth>
+               <death source="VIAF" when="1634">1634-12-22</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no2009005408">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q8016521">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000054309864">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/49061771">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display">Paddy, William, 1554-1634</persName>
+            </person>
+            
+            <person xml:id="person_43060060">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adelheid</name>
+                  <name type="marc-c">von Quedlinburg</name>
+                  <name type="marc-d">977-1044</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adelheid I.</name>
+                  <name type="marc-c">von Gandersheim</name>
+                  <name type="marc-d">977-1044</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adelheid I.</name>
+                  <name type="marc-c">von Quedlinburg</name>
+                  <name type="marc-d">977-1044</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Adelheid</name>
+                  <name type="marc-c">von Gandersheim</name>
+                  <name type="marc-d">977-1044</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Quedlinburg, Adelheid &#x98;von&#x9c;</name>
+                  <name type="marc-d">977-1044</name>
+               </persName>
+               <birth source="VIAF" when="0977">977</birth>
+               <death source="VIAF" when="1044">1044-01-14</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q354673">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/135668816">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/43060060">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="viaf">Adelheid von Quedlinburg 977-1044</persName>
+            </person>
+            
+            <person xml:id="person_42586595">
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ebner von Eschenbach, Hieronymus Wilhelm</name>
+                  <name type="marc-d">1673-1752</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ebner ab Eschenbach, Hieronymus Guilielmus</name>
+                  <name type="marc-d">1673-1752</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ebner, Hieronymus Guilielmus</name>
+                  <name type="marc-d">1673-1752</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Ebner, Hieronymus Wilhelm</name>
+                  <name type="marc-d">1673-1752</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Eschenbach, Hieronymus Wilhelm Ebner &#x98;von&#x9c;</name>
+                  <name type="marc-d">1673-1752</name>
+               </persName>
+               <birth source="VIAF" when="1673">1673</birth>
+               <death source="VIAF" when="1752">1752</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/116334002">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000061323242">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q15452636">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/42586595">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="viaf">Ebner von Eschenbach, Hieronymus Wilhelm 1673-1752</persName>
+            </person>
+            
+            <person xml:id="person_62344901">
+               <persName type="variant" subtype="surenameFirst" source="LC">
+                  <name type="marc-a">Pullen, Robert,</name>
+                  <name type="marc-d">approximately 1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Paululus, Robertus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Polenius, Robertus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Polleyn, Robert</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Pullus, Robertus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Cardinalis</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Foffensis</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Paululus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Polenius</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Polenus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Polonus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Pullanus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Pulleinius</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Pulleyen</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Pulleyn</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robertus</name>
+                  <name type="marc-c">Roffensis</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robert</name>
+                  <name type="marc-c">Pullen</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robert</name>
+                  <name type="marc-c">Pulleyn</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robert</name>
+                  <name type="marc-c">Pullus</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Robert</name>
+                  <name type="marc-c">le Poule</name>
+                  <name type="marc-d">1080-1146</name>
+               </persName>
+               <birth source="VIAF" when="1080">1080</birth>
+               <death source="VIAF" when="1146">1146-09-22</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/118790706">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000039072918">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q3436127">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="FRBNF154997964">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/no92004576">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/62344901">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="viaf">Pullen, Robert, approximately 1080-1146</persName>
+            </person>
+            
+            <person xml:id="person_5727192">
+               <persName type="variant" subtype="forenameFirst" source="LC">
+                  <name type="marc-a">Peter,</name>
+                  <name type="marc-c">of Celle, Bishop of Chartres,</name>
+                  <name type="marc-d">approximately 1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Peter of Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Peter</name>
+                  <name type="marc-c">of Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Peter</name>
+                  <name type="marc-c">von Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus von Mantier-la-Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">Abbas</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">Carnotensis Episcopus</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">Carnotensis</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">Sancti Remigii</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">of Chartres</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">von Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">von Montier-la-Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Petrus</name>
+                  <name type="marc-c">von Moutier-la-Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre de Mantier-la-Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre</name>
+                  <name type="marc-c">Evêque de Chartres</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre</name>
+                  <name type="marc-c">de Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre</name>
+                  <name type="marc-c">de Champagne</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre</name>
+                  <name type="marc-c">de Chartres</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Pierre</name>
+                  <name type="marc-c">de Moutier-la-Celle</name>
+                  <name type="marc-d">1115-1183</name>
+               </persName>
+               <birth source="VIAF" when="1115">1115</birth>
+               <death source="VIAF" when="1183">1183-02-27</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://catalogue.bnf.fr/ark:/12148/cb119197423">
+                           <title>BNF</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/11879065X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.isni.org/isni/0000000080855068">
+                           <title>ISNI</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://id.loc.gov/authorities/names/n79020356">
+                           <title>LC</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q928717">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/5727192">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="viaf">Peter, of Celle, Bishop of Chartres, approximately 1115-1183</persName>
+            </person>
+            
+            <person xml:id="person_57003938">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hieronymus</name>
+                  <name type="marc-c">Aretinus, Bischof</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Aretinus, Hieronymus</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Girolamo</name>
+                  <name type="marc-c">of Arezzo</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hieronymus</name>
+                  <name type="marc-c">Episcopus</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Hieronymus</name>
+                  <name type="marc-c">von Arezzo</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Jérôme</name>
+                  <name type="marc-c">Evêque</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Jérôme</name>
+                  <name type="marc-c">d'Arezzo</name>
+                  <name type="marc-d">ca. um 1144/77</name>
+               </persName>
+               <birth source="VIAF" when="1144">1144</birth>
+               <death source="VIAF" when="1175">1175</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/102500118">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q104713330">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/57003938">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="viaf">Hieronymus Aretinus, bishop ca. 1144-1177</persName>
+            </person>
+            
+            <person xml:id="person_44702800">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">de Furno</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Du Four, Michel</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">DuFour, Michel</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Furno, Michael &#x98;de&#x9c;</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Du Four</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">DuFour</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Insulensis</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">Picardus</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">de Furno, Insulensis</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michael</name>
+                  <name type="marc-c">de Insulis</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michel</name>
+                  <name type="marc-c">de Furno</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michel</name>
+                  <name type="marc-c">de Insulis</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michel</name>
+                  <name type="marc-c">de Lille</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Michel</name>
+                  <name type="marc-c">du Four</name>
+                  <name type="marc-d">ca. um 1314/40</name>
+               </persName>
+               <birth source="VIAF" when="1314">1314</birth>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/102833451">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://d-nb.info/gnd/1089921934">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/44702800">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Michael de Furno, ca. 1314/40</persName>
+            </person>
+            
+            <person xml:id="person_52483392">
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Cronberg, Walther &#x98;von&#x9c;</name>
+                  <name type="marc-d">1480-1543</name>
+               </persName>
+               <persName type="variant" subtype="surenameFirst" source="DNB">
+                  <name type="marc-a">Cronberg, Walter &#x98;von&#x9c;</name>
+                  <name type="marc-d">1480-1543</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Walther</name>
+                  <name type="marc-c">von Cronberg</name>
+                  <name type="marc-d">1480-1543</name>
+               </persName>
+               <birth source="VIAF" when="1480">1480</birth>
+               <death source="VIAF" when="1543">1543-04-04</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/118677381">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q698426">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/52483392">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="DNB">Cronberg, Walther von, 1480-1543</persName>
+            </person>
+            
+            <person xml:id="person_74664130">
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severin</name>
+                  <name type="marc-c">Köln, Bischof, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severinus</name>
+                  <name type="marc-c">Bischof, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severinus</name>
+                  <name type="marc-c">Episcopus, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severinus</name>
+                  <name type="marc-c">Sanctus</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severinus</name>
+                  <name type="marc-c">de Colonia, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severinus</name>
+                  <name type="marc-c">von Köln, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severin</name>
+                  <name type="marc-c">Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <persName type="variant" subtype="forenameFirst" source="DNB">
+                  <name type="marc-a">Severin</name>
+                  <name type="marc-c">von Köln, Heiliger</name>
+                  <name type="marc-d">ca. 4. Jh.</name>
+               </persName>
+               <birth source="VIAF" when="0300">300</birth>
+               <death source="VIAF" when="0403">403</death>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="http://d-nb.info/gnd/11948174X">
+                           <title>GND</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="http://www.wikidata.org/entity/Q569537">
+                           <title>Wikidata</title>
+                        </ref>
+                     </item>
+                     <item>
+                        <ref target="https://viaf.org/viaf/74664130">
+                           <title>VIAF</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+               <persName type="display" source="bodl">Severinus, episcopus, 4th century (?)</persName>
+            </person>
+         </listPerson>
+      </body>
+  </text>
+</TEI>

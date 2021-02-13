@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>
+            <person xml:id="person_25006775">
+               <persName type="display" source="DNB">Theodorus Palidensis, 12th century</persName>
+               <!-- also 170479953 -->
+            </person>
+            
+            
+            <person xml:id="person_409437">
+               <persName type="display" source="DNB">Nicolaus Tempelfeld de Brega -1471</persName>
+            </person>
+            
+            <person xml:id="person_78500588">
+               <persName type="display" source="LC">Neligan, William Chadwick</persName>
+            </person>
+            
+            <person xml:id="person_22967688">
+               <persName type="display" source="LC">Adolf II, Archbishop and Elector of Mainz, approximately 1422-1475</persName>
+            </person>
+            
+            <person xml:id="person_5320354">
+               <persName type="display" source="DNB">Philippus de Florentia, ca. 1313</persName>
+            </person>
+            
+            <person xml:id="person_10203812">
+               <persName type="display" source="bodl">Poter, Michael le, of Cornwall, fl. 1243-1255</persName>
+               <floruit notBefore="1243" notAfter="1255"></floruit>
+               <note type="links">
+                  <list type="links">
+                     <item>
+                        <ref target="https://doi.org/10.1093/ref:odnb/18648">
+                           <title>Oxford DNB</title>
+                        </ref>
+                     </item>
+                  </list>
+               </note>
+            </person>
+            
+            <person xml:id="person_304918233">
+               <persName type="display" source="bodl">Fasolo, Angelo, 1426-1491</persName>
+            </person>
+            
+            <person xml:id="person_19483789">
+               <persName type="display" source="LC">Bertram, von Ahlen, active 1307-1315</persName>
+            </person>
+            
+            <person xml:id="person_197853031">
+               <persName type="display" source="BNF">Boxhorn, Hendrik 1545?-1631?</persName>
+            </person>
+            
+            <person xml:id="person_28213935">
+               <persName type="display" source="LC">Holland, Thomas, 1539-1612</persName>   
+            </person>
+            
+            <person xml:id="person_24954637">
+               <persName type="display">Elsynge, Henry, 1577-1635</persName>
+            </person>
+            
+            <person xml:id="person_828869">
+               <persName type="display">Latewar, Richard</persName>
+            </person>
+            
+            <person xml:id="person_32909717">
+               <persName type="display">Pearce, Zachary, 1690-1774</persName>
+            </person>
+            
+            <person xml:id="person_17133283">
+               <persName type="display">Forrest, William, 1530-1581</persName>
+            </person>
+            
+            <person xml:id="person_49548280">
+               <persName type="display">Buckeridge, John, 1562-1631</persName>
+            </person>
+            
+            <person xml:id="person_162373552">
+               <persName type="display" source="DNB">'Paratus', 14th century</persName>
+            </person>
+            
+            <person xml:id="person_25696227">
+               <persName type="display" source="LC">Black, William Henry, 1808-1872</persName>
+            </person>
+            
+            <person xml:id="person_32753361">
+               <persName type="display" source="LC">Cohn, Albert, 1827-1905</persName>
+            </person>
+            
+            <person xml:id="person_27313450">
+               <persName type="display" source="BNF">Ibn al-Ǧazzār, Aḥmad ibn Ibrāhīm, 0878-0980</persName>
+            </person>
+            
+            <person xml:id="person_64360152">
+               <persName type="display" source="LC">Verburg, Isaäc, 1680-1745</persName>
+            </person>
+            
+            <person xml:id="person_24945908">
+               <persName source="LC" type="display">Orville, Jacques-Philippe d', 1696-1751</persName>   
+            </person>
+            
+            <person xml:id="person_78340758">
+               <persName source="LC" type="display">White, Thomas, Sir, 1492-1567</persName>
+            </person>
+            
+            <person xml:id="person_292789691">
+               <persName type="display" source="LC">Jonson, Ben, 1573?-1637</persName>
+            </person>
+            
+            <person xml:id="person_296283946">
+               <persName type="display" source="bodl">Roland of Lisbon, 15th century</persName>
+            </person>
+            
+            <person xml:id="person_15175769">
+               <persName type="display" source="bodl">Sifridus OP, fl. 1343</persName>
+            </person>
+            
+            <person xml:id="person_59109233">
+               <persName type="display" source="DNB">Alfredus Sereshalensis 1175-1245</persName>
+            </person>
+            
+            <person xml:id="person_19649480">
+               <persName type="display" source="LC">Nicolaus, of Damascus</persName>
+            </person>
+            
+            <person xml:id="person_44655240">
+               <persName type="display" source="LC">Sulpicius Apollinaris, Gaius</persName>
+            </person>
+            
+            <person xml:id="person_59434961">
+               <persName type="display" source="VIAF">Tillesley, Richard, 1582-1621</persName>
+            </person>
+            
+            <person xml:id="person_96235220">
+               <persName type="display" source="JPG">Woltmann, Tider, German bookbinder, active 1450-1470</persName>
+            </person>
+            
+            <person xml:id="person_96243197">
+               <persName type="display" source="bodl">Embriachi, Baldassare, active ca. 1390-1409</persName>
+               <!-- several other refs in VIAF all of which relate to the same person who was active both in Florence and Venice. -->
+            </person>
+            
+            <person xml:id="person_20479535">
+               <persName type="display" source="LC">Hugh, of Lincoln, Saint, 1140-1200</persName>
+            </person>
+            
+            <person xml:id="person_299045414">
+               <persName type="display" source="LC">Hedwig, Herzogin von Schwaben, approximately 938-994 </persName>
+            </person>
+            
+            <person xml:id="person_86128486">
+               <persName type="display" source="bodl">Matilda of Germany, -1025</persName>
+            </person>
+            
+            <person xml:id="person_49061771">
+               <persName type="display">Paddy, William, 1554-1634</persName>
+            </person>
+            
+            <person xml:id="person_43060060">
+               <persName type="display" source="viaf">Adelheid von Quedlinburg 977-1044</persName>
+            </person>
+            
+            <person xml:id="person_42586595">
+               <persName type="display" source="viaf">Ebner von Eschenbach, Hieronymus Wilhelm 1673-1752</persName>
+            </person>
+            
+            <person xml:id="person_62344901">
+               <persName type="display" source="viaf">Pullen, Robert, approximately 1080-1146</persName>
+            </person>
+            
+            <person xml:id="person_5727192">
+               <persName type="display" source="viaf">Peter, of Celle, Bishop of Chartres, approximately 1115-1183</persName>
+            </person>
+            
+            <person xml:id="person_57003938">
+               <persName type="display" source="viaf">Hieronymus Aretinus, bishop ca. 1144-1177</persName>
+            </person>
+            
+            <person xml:id="person_44702800">
+               <persName type="display" source="DNB">Michael de Furno, ca. 1314/40</persName>
+            </person>
+            
+            <person xml:id="person_52483392">
+               <persName type="display" source="DNB">Cronberg, Walther von, 1480-1543</persName>
+            </person>
+            
+            <person xml:id="person_74664130">
+               <persName type="display" source="bodl">Severinus, episcopus, 4th century (?)</persName>
+            </person>
+         </listPerson>
+      </body>
+  </text>
+</TEI>
